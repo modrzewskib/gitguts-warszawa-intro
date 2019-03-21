@@ -17,3 +17,6 @@ infoShare Academy
 ## Wymagania
 
 Appache Commons 2
+
+Node.js
+
