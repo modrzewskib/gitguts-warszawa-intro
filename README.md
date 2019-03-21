@@ -13,3 +13,7 @@ MIT
 ## Autor
 
 infoShare Academy
+
+## Wymagania
+
+Node.js
