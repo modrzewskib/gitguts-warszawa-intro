@@ -1,10 +1,10 @@
 # Moje pierwsze repozytorium.
 
-Celem tego repozytorium jest zapoznanie siê z gitem.
+Celem tego repozytorium jest zapoznanie siÄ™ z gitem.
 
 ## Wymagania.
 
-Nie ma ¿adnych.
+Nie ma Å¼adnych.
 
 ## Licencja
 
@@ -20,3 +20,6 @@ Appache Commons 2
 
 Node.js
 
+## Koniec
+
+To juÅ¼ ostatnie zadanie.
